@@ -1,1 +1,1 @@
-# Sensors APP 
+# Accelerometer Sensor APP 
